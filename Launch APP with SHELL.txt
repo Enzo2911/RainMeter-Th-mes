@@ -1,0 +1,3 @@
+Commande to get UID : Get-AppxPackage -allusers | Select Name, PackageFullName
+
+Syntaxe : Shell:AppsFolder\<UID>!App
